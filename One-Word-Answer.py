@@ -116,3 +116,8 @@ if difficalty == "medium":
         print("Correct!!!")
     elif question2 != "8.17":
         print("No, The correct answer is 8.17 .")
+    question3 = input("3: who invented AC electric power?")
+    if question3 == "nikola tesla":
+        print("Correct!!!")
+    elif question3 != "nikola tesla":
+        print("No, The correct answer is nikola tesla.")
