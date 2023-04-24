@@ -121,3 +121,18 @@ if difficalty == "medium":
         print("Correct!!!")
     elif question3 != "nikola tesla":
         print("No, The correct answer is nikola tesla.")
+    question4 = input("4: How long is an olympic swimming pool (in meter)? ")
+    if question4 == "50":
+        print("Correct!!!")
+    elif question4 != "50":
+        print("No, The correct answer is 50.")
+    question5 = input("5: What is cynophobia? ")
+    if question5 == "fear of dogs":
+        print("Correct!!!")
+    elif question5 != "fear of dog":
+        print("No, The correct answer is fear of dogs.")
+    question6 = input("6: Who launched eBay in 1995? ")
+    if question6 == "pierre omidyar":
+        print("Correct!!!")
+    elif question6 != "pierre omidyar":
+        print("No, The correct answer is pierre omidyar.") 
