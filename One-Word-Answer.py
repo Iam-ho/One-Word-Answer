@@ -136,3 +136,13 @@ if difficalty == "medium":
         print("Correct!!!")
     elif question6 != "pierre omidyar":
         print("No, The correct answer is pierre omidyar.") 
+        question7 = input("7: In what year was Benz founded? ")
+    if question7 == "1926":
+        print("Correct!!!")
+    elif question7 != "1926":
+        print("No, The correct answer is 1926.")
+    question8 = input("8: Who developed Linux? ")
+    if question8 == "linus torvalds":
+        print("Correct!!!")
+    elif question8 != "linus torvalds":
+        print("No, The correct answer is linus torvalds.")
