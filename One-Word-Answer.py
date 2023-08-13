@@ -146,3 +146,63 @@ if difficalty == "medium":
         print("Correct!!!")
     elif question8 != "linus torvalds":
         print("No, The correct answer is linus torvalds.")
+    question9 = input("9: When did WW1 start?(year) ")
+    if question9 == "1914":
+        print("Correct!!!")
+    elif question9 != "1914":
+        print("No, The correct answer is 1914.")
+    question10 = input("10: Who started WW2? ")
+    if question10 == "adolf hitler":
+        print("Correct!!!")
+    elif question10 != "adolf hitler":
+        print("No, The Correct answer is adolf hitler.")
+    question11 = input("11: Who is the 2nd President of USA? ")
+    if question11 == "john adams":
+        print("Correct!!!")
+    elif question11 != "john adams":
+        print("No, The correct answer is john adams.")
+    question12 = input("12: Who designed C programming language? ")
+    if question12 == "dennis ritchie":
+        print("Correct!" + U'\u2764' + ".")
+    elif question12 != "dennis ritchie":
+        print("No, The correct answer is Dennis Ritchie" + U'\u2764' + ".")
+    question13 = input("13: What is the meaning of VPS? ")
+    if question13 == "virtual private server":
+        print("Correct!!!")
+    elif question13 != "virtual private server":
+        print("No, The correct answer is virtual private server.")
+    question14 = input("14: Which star is closest to Earth? ")
+    if question14 == "sun":
+        print("Correct!!!")
+    elif question14 != "sun":
+        print("No, The Correct answer is sun.")
+    question15 = input("15: What is the fastest fish? ")
+    if question15 == "indo-pacific sailfish":
+        print("Correct!!!")
+    elif question15 != "indo-pacific sailfish":
+        print("No, The correct answer is indo-pacific sailfish.")
+    question16 = input("16: Which country is the oldest in the World? ")
+    if question16 == "iran":
+        print("Correct!!!")
+    elif question16 != "iran":
+        print("No, The Correct answer is IRAN.")
+    question17 = input("17: What is the meaning of UAE? ")
+    if question17 == "united arab emirates":
+        print("Correct!!!")
+    elif question17 != "united arab emirates":
+        print("No, The correct answer is united arab emirates.")
+    question18 = input("18: Which F1 driver died on 1994? ")
+    if question18 == "ayrton senna":
+        print("Correct!" + U'\u2764' + ".")
+    elif question18 != "ayrton senna":
+        print("No, The correct answer is Ayrton Senna" + U'\u2764' + ".")
+    question19 = input("19: Which team has won the most FIFA World Cups?")
+    if question19 == "brazil":
+        print("Correct!!!")
+    elif question19 != "brazil":
+        print("No, The correct answer is brazil.")
+    question20 = input("20: Which country is Maradona from? ")
+    if question20 == "argentina":
+        print("Correct!!!")
+    elif question20 != "argentina":
+        print("No, The correct answer is argentina.")
